@@ -1,0 +1,2 @@
+texteditor.textEditorGUI$1
+texteditor.textEditorGUI
